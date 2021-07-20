@@ -1,0 +1,7 @@
+synthetic\_data\_generation\_optimizer.synthetic\_data\_generation\_optimizer module
+====================================================================================
+
+.. automodule:: synthetic_data_generation_optimizer.synthetic_data_generation_optimizer
+   :members:
+   :undoc-members:
+   :show-inheritance:

@@ -1,0 +1,17 @@
+synthetic\_data\_generation\_optimizer package
+==============================================
+
+Submodules
+----------
+
+.. toctree::
+
+   synthetic_data_generation_optimizer.synthetic_data_generation_optimizer
+
+Module contents
+---------------
+
+.. automodule:: synthetic_data_generation_optimizer
+   :members:
+   :undoc-members:
+   :show-inheritance:
